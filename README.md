@@ -1,7 +1,7 @@
 [![MasterHead](https://ewzduhvhjkj.exactdn.com/wp-content/uploads/2023/06/21100533/Incorporating-PayPal-into-Your-Django-Web-Application-banner.png?lossy=1&ssl=1)](http://ww38.rishavchanda.io/)
 <h1 align="center">Hi 👋, I'm Jisan Mahmud</h1>
 <h3 align="center">A passionate Backend developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5b1d2e901546f5465aacfb5d19253ae0822909b754dac4b8b2d5632374125c72/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a7a566e574a7479474f585f6b5549446d3663634366512e676966">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/parth-27/parth-27/master/dev.gif">
 - 🌱 I’m currently learning **Redis**
 
 - 💬 Ask me about **Django, Django Rest Framework**
