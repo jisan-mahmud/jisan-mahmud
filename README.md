@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Jisan Mahmud</h1>
 <h3 align="center">A passionate Backend developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/parth-27/parth-27/master/dev.gif">
-- 🌱 I’m currently learning **Redis**
 
 - 💬 Ask me about **Django, Django Rest Framework**
 
