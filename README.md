@@ -19,4 +19,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jisan-mahmud&show_icons=true&locale=en&layout=compact" alt="jisan-mahmud" /></p>
 
-![Snake animation](https://raw.githubusercontent.com/{jisan-mahmud}/{jisan-mahmud}/output/github-contribution-grid-snake-dark.svg)
