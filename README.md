@@ -1,4 +1,4 @@
-[![MasterHead](https://ewzduhvhjkj.exactdn.com/wp-content/uploads/2023/06/21100533/Incorporating-PayPal-into-Your-Django-Web-Application-banner.png?lossy=1&ssl=1)](http://ww38.rishavchanda.io/)
+[![MasterHead](https://user-images.githubusercontent.com/52650290/164152607-6da6cff8-0c95-468d-ab39-80c775b23c2a.png)](http://ww38.rishavchanda.io/)
 <h1 align="center">Hi 👋, I'm Jisan Mahmud</h1>
 <h3 align="center">A passionate Backend Focus Full Stack developer from Bangladesh</h3>
 
