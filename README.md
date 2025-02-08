@@ -25,13 +25,13 @@
   <a href="https://linkedin.com/in/jisan-mahmud-b04064293/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://fb.com/jisanmahmud247" target="_blank">
+  <a href="https://fb.com/jisanmahmud23" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://codeforces.com/profile/jisa.mahmud20" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-%23FFCC00.svg?&style=for-the-badge&logo=codeforces&logoColor=black" />
   </a>
-  <a href="https://www.leetcode.com/jisan360" target="_blank">
+  <a href="https://www.leetcode.com/jisan923" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
