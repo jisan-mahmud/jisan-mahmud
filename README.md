@@ -39,5 +39,5 @@
 
 | Top Languages | GitHub Stats | Streak Stats |
 |--------------|-------------|-------------|
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=jisan-mahmud&show_icons=true&locale=en&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jisan-mahmud&show_icons=true&locale=en) | ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=jisan-mahmud&) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=jisan-mahmud&show_icons=true&locale=en&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jisan-mahmud&show_icons=true&locale=en) |[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jisan-mahmud)](https://git.io/streak-stats) |
 
