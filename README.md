@@ -8,7 +8,7 @@
 
 ### 🌱 About Me
 - 🔭 I’m currently working on **AI-integrated Web Projects**
-- 🌱 I’m currently learning **PostgreSQL**
+- 🌱 I’m currently learning **FastApi**
 - 💬 Ask me about **Django, Django Rest Framework, React**
 - ⚡ Fun fact: **I love problem-solving and competitive programming!**
 - 📫 Reach me at **jisa.mahmud20@gmail.com**
