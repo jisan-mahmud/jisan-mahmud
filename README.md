@@ -7,7 +7,7 @@
 </p>
 
 ### 🌱 About Me
-- 🔭 I’m currently working on **AI-integrated Web Projects**
+- 💼 Backend Developer at Softvenc Agency
 - 🌱 I’m currently learning **FastApi**
 - 💬 Ask me about **Django, Django Rest Framework, React**
 - ⚡ Fun fact: **I love problem-solving and competitive programming!**
