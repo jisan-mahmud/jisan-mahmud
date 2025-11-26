@@ -16,7 +16,7 @@
 
 ### 🛠️ Languages & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgresql,redis,celery,nginx,git,github,cpp,tailwind,react,html,css,js,mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgresql,redis,nginx,git,github,cpp,tailwind,react,html,css,js,mysql,sqlite" />
 </p>
 
 
