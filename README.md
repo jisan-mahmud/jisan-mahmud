@@ -36,8 +36,7 @@
   </a>
 </p>
 
-
-| Top Languages | Streak Stats |
-|---------------|-------------|
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=jisan-mahmud&show_icons=true&locale=en&layout=compact) | [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=jisan-mahmud)](https://git.io/streak-stats) |
+Streak Stats 
+-------------
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=jisan-mahmud)](https://git.io/streak-stats)
 
