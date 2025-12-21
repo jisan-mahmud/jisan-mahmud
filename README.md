@@ -34,6 +34,24 @@
   </a>
 </p>
 
-Streak Stats 
--------------
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=jisan-mahmud)](https://git.io/streak-stats)
+<table width="100%" align= "center">
+  <tr>
+    <td width="50%">
+      <h4>🔥 GitHub Streak</h4>
+      <a href="https://git.io/streak-stats">
+        <img
+          src="https://nirzak-streak-stats.vercel.app/?user=jisan-mahmud&theme=tokyonight&hide_border=true&background=0D1117&ring=F0DB4F&fire=ff3068&currStreakLabel=F0DB4F"
+          alt="GitHub Streak Stats"
+        />
+      </a>
+    </td>
+    <td width="50%">
+      <h4>🧠 Top Languages</h4>
+      <img
+        height="180em"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=jisan-mahmud&layout=compact&langs_count=8&theme=tokyonight&bg_color=0D1117&title_color=F0DB4F&text_color=FFFFFF&border_radius=10&hide_border=true"
+        alt="Top Languages"
+      />
+    </td>
+  </tr>
+</table>
