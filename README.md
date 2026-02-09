@@ -10,7 +10,7 @@
 
 ### 🌱 About Me
 - 💼 Backend Developer at Softvenc Agency
-- 🌱 I’m currently learning **FastApi**
+- 🌱 I’m currently expore **django-bolt**
 - 💬 Ask me about **Django, Django Rest Framework, React**
 - ⚡ Fun fact: **I love problem-solving and competitive programming!**
 - 📫 Reach me at **jisa.mahmud20@gmail.com**
