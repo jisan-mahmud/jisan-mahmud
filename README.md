@@ -1,4 +1,5 @@
-![jisan-mahmud](https://github.com/user-attachments/assets/3d087cb9-9f5a-4b27-ad43-86b62c74578e)
+![jisan-mahmud](https://github.com/user-attachments/assets/d83c3a0e-1354-4bf3-9028-173742f31b09)
+
 
 <h1 align="center">Hi 👋, I'm Jisan Mahmud</h1>
 <h3 align="center">Backend-focused Full-Stack Developer from Bangladesh, building scalable and efficient web applications.</h3>
