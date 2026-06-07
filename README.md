@@ -11,7 +11,7 @@
 
 ### 🌱 About Me
 - 💼 Backend Developer at Softvenc Agency
-- 🌱 I’m currently explore **django-bolt**
+- 🌱 I’m currently Learning **Design Patterns** In **C#**
 - 💬 Ask me about **Django, Django Rest Framework, React**
 - ⚡ Fun fact: **I love problem-solving and competitive programming!**
 - 📫 Reach me at **jisa.mahmud20@gmail.com**
