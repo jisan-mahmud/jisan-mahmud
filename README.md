@@ -10,7 +10,6 @@
 
 
 ### 🌱 About Me
-- 💼 Backend Developer at Softvenc Agency
 - 🌱 I’m currently Learning **Design Patterns** In **C#**
 - 💬 Ask me about **Django, Django Rest Framework, React**
 - ⚡ Fun fact: **I love problem-solving and competitive programming!**
